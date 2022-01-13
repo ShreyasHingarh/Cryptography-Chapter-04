@@ -1,0 +1,14 @@
+C:\Users\shreyas.hingarh\source\repos\Cryptography-Chapter-04\Entropy\Entropy\bin\Debug\netcoreapp3.1\Entropy.exe
+C:\Users\shreyas.hingarh\source\repos\Cryptography-Chapter-04\Entropy\Entropy\bin\Debug\netcoreapp3.1\Entropy.deps.json
+C:\Users\shreyas.hingarh\source\repos\Cryptography-Chapter-04\Entropy\Entropy\bin\Debug\netcoreapp3.1\Entropy.runtimeconfig.json
+C:\Users\shreyas.hingarh\source\repos\Cryptography-Chapter-04\Entropy\Entropy\bin\Debug\netcoreapp3.1\Entropy.runtimeconfig.dev.json
+C:\Users\shreyas.hingarh\source\repos\Cryptography-Chapter-04\Entropy\Entropy\bin\Debug\netcoreapp3.1\Entropy.dll
+C:\Users\shreyas.hingarh\source\repos\Cryptography-Chapter-04\Entropy\Entropy\bin\Debug\netcoreapp3.1\Entropy.pdb
+C:\Users\shreyas.hingarh\source\repos\Cryptography-Chapter-04\Entropy\Entropy\obj\Debug\netcoreapp3.1\Entropy.csproj.AssemblyReference.cache
+C:\Users\shreyas.hingarh\source\repos\Cryptography-Chapter-04\Entropy\Entropy\obj\Debug\netcoreapp3.1\Entropy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shreyas.hingarh\source\repos\Cryptography-Chapter-04\Entropy\Entropy\obj\Debug\netcoreapp3.1\Entropy.AssemblyInfoInputs.cache
+C:\Users\shreyas.hingarh\source\repos\Cryptography-Chapter-04\Entropy\Entropy\obj\Debug\netcoreapp3.1\Entropy.AssemblyInfo.cs
+C:\Users\shreyas.hingarh\source\repos\Cryptography-Chapter-04\Entropy\Entropy\obj\Debug\netcoreapp3.1\Entropy.csproj.CoreCompileInputs.cache
+C:\Users\shreyas.hingarh\source\repos\Cryptography-Chapter-04\Entropy\Entropy\obj\Debug\netcoreapp3.1\Entropy.dll
+C:\Users\shreyas.hingarh\source\repos\Cryptography-Chapter-04\Entropy\Entropy\obj\Debug\netcoreapp3.1\Entropy.pdb
+C:\Users\shreyas.hingarh\source\repos\Cryptography-Chapter-04\Entropy\Entropy\obj\Debug\netcoreapp3.1\Entropy.genruntimeconfig.cache
